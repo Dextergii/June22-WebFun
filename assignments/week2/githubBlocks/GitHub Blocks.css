@@ -1,0 +1,39 @@
+.container{
+    height: 800px;
+    width: 800px;
+    margin: 0% auto;
+    padding 20px;
+}
+
+h1{
+    text-align: center;
+    margin-top: 0%;
+    margin-bottom: 20px;
+}
+
+img.octocat{
+height: 200px;
+}
+
+.row{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #57c7f6;
+    margin: 20px;
+    padding: 20px;
+}
+
+.pink{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #d3a2bf;
+    justify-content: center;
+    margin: 20px;
+}
+
+.blue{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #fcfcfd;
+}
+
